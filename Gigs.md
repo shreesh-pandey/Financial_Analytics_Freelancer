@@ -1,4 +1,6 @@
-# Finalized **4 gigs**  (3 Excel + 1 Power BI). These are strategic, premium, finance-focused gigs — not generic Excel work.
+# Finalized **4 gigs**  (3 Excel + 1 Power BI).
+
+These are strategic, premium, finance-focused gigs — not generic Excel work.
 
 ---
 
