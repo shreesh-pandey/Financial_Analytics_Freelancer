@@ -23,9 +23,9 @@
 
 ---
 
-# Gig Extras
+## Gig Extras
 
-## Extra Fast Delivery
+### Extra Fast Delivery
 
 | Package      | Delivery Time                   | Extra Price |
 | ------------ | ------------------------------- | ----------- |
@@ -35,7 +35,7 @@
 
 ---
 
-## Extra Service 1
+### Extra Service 1
 
 | Field                 | Value                                                       |
 | --------------------- | ----------------------------------------------------------- |
@@ -46,7 +46,7 @@
 
 ---
 
-## Extra Service 2
+### Extra Service 2
 
 | Field                 | Value                                                          |
 | --------------------- | -------------------------------------------------------------- |
@@ -57,3 +57,27 @@
 
 ---
 
+## Description
+
+Are you looking for a reliable budgeting and forecasting financial model in Excel to plan and manage your business finances?
+
+I will build a structured and easy-to-use financial model that helps you understand revenue, expenses, and future financial performance. The model will be customized based on your business needs and designed for clear financial planning and decision making.
+
+This service is ideal for:
+* Startups
+* Small businesses
+* Consultants
+* Business owners preparing budgets or forecasts
+
+What I can help you with:
+* Budget planning and financial forecasting
+* Revenue and expense modeling
+* Financial projections and planning models
+* Clean and organized Excel financial models
+* Visual summaries for easier financial understanding
+
+I focus on creating practical financial models that are simple, structured, and useful for real business decisions.
+
+Please contact me before placing an order so we can discuss your requirements and ensure the best solution for your needs.
+
+---
