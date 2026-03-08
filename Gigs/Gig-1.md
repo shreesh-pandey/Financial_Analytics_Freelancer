@@ -17,9 +17,9 @@
 
 | Package      | Name (≤34 chars)              | Description (≤100 chars)                                                             | Delivery | Accounts | Years | Model Visualization | Presentation Deck | Methodology Report | Consultation Sessions | Price |
 | ------------ | ----------------------------- | ------------------------------------------------------------------------------------ | -------- | ----- | ------------------- | ----------------- | ------------------ | --------------------- | -------- | ----- |
-| **Basic**    | Basic Budget Model            | Simple Excel budget model with revenue and expense planning for one business unit    |  3 days   | 1        | 1     | ✔                   | ✘                 | ✘                  | 1                     | $49   |
-| **Standard** | Budget and Forecast Model     | Excel budget and forecast model with drivers, expense tracking and summary dashboard |  5 days   | 1        | 3     | ✔                   | ✘                 | ✔                  | 1                     | $129  |
-| **Premium**  | Advanced FP&A Financial Model | Advanced financial model with multi year forecast, assumptions and dashboard         |  7 days   | 2        | 5     | ✔                   | ✔                 | ✔                  | 2                     | $259  |
+| **Basic**    | Basic Budget Model            | Simple Excel budget model with revenue and expense planning for one business unit    |  3 days   | 1        | 1     | ✔                   | ✘                 | ✘                  | 1                     | $50   |
+| **Standard** | Budget and Forecast Model     | Excel budget and forecast model with drivers, expense tracking and summary dashboard |  5 days   | 1        | 3     | ✔                   | ✘                 | ✔                  | 1                     | $125  |
+| **Premium**  | Advanced FP&A Financial Model | Advanced financial model with multi year forecast, assumptions and dashboard         |  7 days   | 2        | 5     | ✔                   | ✔                 | ✔                  | 2                     | $255  |
 
 ---
 
