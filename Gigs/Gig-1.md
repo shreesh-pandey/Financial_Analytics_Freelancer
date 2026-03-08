@@ -81,3 +81,107 @@ I focus on creating practical financial models that are simple, structured, and 
 Please contact me before placing an order so we can discuss your requirements and ensure the best solution for your needs.
 
 ---
+
+## FAQs
+
+FAQs are important because they **answer buyer doubts before they message you** and increase conversion.
+
+---
+
+# FAQ 1
+
+**Question**
+What information do you need to build the financial model?
+
+**Answer**
+I will need basic business information such as revenue assumptions, cost structure, expected growth, and any historical data if available. If you are unsure, I can guide you through the information required.
+
+---
+
+# FAQ 2
+
+**Question**
+Can you customize the financial model for my business?
+
+**Answer**
+Yes. The financial model will be tailored to your business structure, revenue streams, and expense categories to ensure it reflects your real financial planning needs.
+
+---
+
+# FAQ 3
+
+**Question**
+Do I need advanced Excel knowledge to use the model?
+
+**Answer**
+No. The model will be designed to be simple and user friendly. Input sections and calculation sections will be clearly separated so you can update assumptions easily.
+
+---
+
+# FAQ 4
+
+**Question**
+Can you add additional dashboards or reports?
+
+**Answer**
+Yes. If you need additional dashboards, financial summaries, or custom analysis, I can include them as part of the project or as an extra service.
+
+---
+
+## Requirements
+
+Good. The **Requirements section** helps you collect the right information from buyers before starting the work. This avoids confusion later.
+
+Create **3 simple questions**. Fiverr allows multiple question types, but we’ll keep it clear.
+
+---
+
+# Requirement 1
+
+**Question**
+
+Please describe your business and the purpose of the financial model.
+
+**Answer type**
+
+Free text
+
+**Required**
+
+Yes
+
+---
+
+# Requirement 2
+
+**Question**
+
+Do you have any existing financial data (revenue, expenses, budgets) to include in the model?
+
+**Answer type**
+
+Multiple Choice
+
+**Required**
+
+No
+
+---
+
+# Requirement 3
+
+**Question**
+
+Please upload any relevant files such as Excel sheets, financial reports, or reference templates.
+
+**Answer type**
+
+File upload
+
+**Required**
+
+No
+
+---
+
+
