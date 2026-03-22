@@ -13,7 +13,26 @@ Your gigs are all finance-focused, so the key is:
 
 ---
 
-# ✅ FINAL PROJECT PLAN (ALL 4 GIGS)
+## 📊 Financial Analytics Freelancer – Project Portfolio
+
+| Gig No.   | Gig Title                                                                       | Project Type | Project Name                                  | Description                                                                                                                    |
+| --------- | ------------------------------------------------------------------------------- | ------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Gig 1** | Build budgeting, forecasting and FP&A financial models in Excel                 | 🥇 Main      | Financial Planning Model (FP&A)               | A dynamic financial planning model including revenue forecasting, expense planning, and automated P&L with dashboard insights. |
+|           |                                                                                 | 🥈 Support   | Budget vs Actual Variance Analysis            | A model comparing planned vs actual performance with variance analysis and visual insights.                                    |
+|           |                                                                                 | 🥉 Support   | Cash Flow Forecasting Model                   | A structured cash flow model to track inflows, outflows, and net cash position over time.                                      |
+| **Gig 2** | Build investor-ready startup financial projections and financial model in Excel | 🥇 Main      | SaaS Startup Financial Model (Investor-Ready) | A complete investor-ready model with revenue projections, unit economics (CAC, LTV), burn rate, and runway analysis.           |
+|           |                                                                                 | 🥈 Support   | E-commerce Startup Financial Projection Model | A financial model for e-commerce businesses including sales forecast, cost structure, and profitability analysis.              |
+|           |                                                                                 | 🥉 Support   | Break-even & Valuation Model                  | A model to calculate break-even point, perform scenario analysis, and estimate basic business valuation.                       |
+| **Gig 3** | Create cash flow forecast and working capital tracking model in Excel           | 🥇 Main      | Advanced Cash Flow Forecasting Model          | A detailed cash flow model with inflow/outflow tracking, balance forecasting, and scenario-based analysis.                     |
+|           |                                                                                 | 🥈 Support   | Working Capital Optimization Model            | A model analyzing DSO, DPO, and inventory days to identify working capital inefficiencies.                                     |
+|           |                                                                                 | 🥉 Support   | AR/AP Tracker Dashboard                       | A tracking system for receivables and payables with overdue alerts and performance insights.                                   |
+| **Gig 4** | Build interactive financial performance dashboard in Power BI                   | 🥇 Main      | Financial Performance Dashboard (Power BI)    | A multi-page dashboard showing revenue, expenses, and profitability with interactive visuals.                                  |
+|           |                                                                                 | 🥈 Support   | Budget vs Actual Dashboard (Power BI)         | A dashboard highlighting variance between planned and actual performance with drill-down capabilities.                         |
+|           |                                                                                 | 🥉 Support   | Cash Flow Dashboard (Power BI)                | A visual dashboard tracking cash inflows, outflows, and net cash trends.                                                       |
+
+---
+
+# ✅ DETAILED PROJECT PLAN (ALL 4 GIGS)
 
 # 🎯 Gig 1: FP&A Financial Models (Excel)
 
